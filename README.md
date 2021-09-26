@@ -1,3 +1,2 @@
 ## Bkfan1
-
-## Web developer / 19 years old
+Web developer / 19 years old
