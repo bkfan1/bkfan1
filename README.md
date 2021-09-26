@@ -7,6 +7,8 @@
         <img width="200px" height="200px" src="https://kariselovuo.pro/ksprov1/wp-content/uploads/2018/02/css-logo.png" alt="">
         <img width="200px" height="200px" src="https://www.mozillaphilippines.org/wp-content/uploads/2016/06/javascript-logo.jpg" alt="">
         <img width="200px" height="200px" src="https://www.ondho.com/wp-content/uploads/2015/04/thumbnail-sass.png" alt="">
+        <img width="200px" height="200px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" alt="">
+        <img width="200px" height="200px" src="https://e7.pngegg.com/pngimages/48/567/png-clipart-bash-shell-script-command-line-interface-z-shell-shell-rectangle-logo-thumbnail.png" alt="">
     </div>
     
 </div>
