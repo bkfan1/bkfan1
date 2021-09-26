@@ -13,7 +13,7 @@
         <img width="100px" height="100px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash/Shell Scripting">
         <img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python">
         <img width="100px" height="100px" src="https://anterior.tectimes.net/wp-content/uploads/2017/08/Azure-SQL-Database-generic_COLOR.png" alt="SQL Language">
-        <img width="100px" height="100px" src="https://static-00.iconduck.com/assets.00/logo-markdown-icon-512x385-k241bxv5.png" alt="" style="object-fit: cover;">
+        <img width="100px" height="100px" src="https://static-00.iconduck.com/assets.00/logo-markdown-icon-512x385-k241bxv5.png" alt="" style="object-fit: contain;">
     </div>
     <hr>
 
