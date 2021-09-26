@@ -1,8 +1,8 @@
-<h1 align="center">Bkfan1</h1>
+<h1 align="center">@bkfan1</h1>
 <h2 align="center">🌐 Web developer</h2>
 
 <details>
-    <summary><h3>I know:</h3></summary>
+    <summary><h3>I know 🧠:</h3></summary>
     <h3>Programming languages:</h3>
     <img width="100px" height="100px" src="https://www.mozillaphilippines.org/wp-content/uploads/2016/06/javascript-logo.jpg" alt="JavaScript">
     <img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python">
@@ -43,7 +43,7 @@
 <br>
 <br>
 <details>
-    <summary><h3>I want to learn / I'm currently learning</h3></summary>
+    <summary><h3>I want to learn / I'm currently learning 📖💡:</h3></summary>
     <h3>Programming languages:</h3>
     <img width="100px" height="100px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="">
     <img width="100px" height="100px" src="https://console.kamatera.com/assets/images/os/os_php.png" alt="php">
@@ -79,6 +79,7 @@
         <li><h4>Drawing & painting ✏️🖌️</h4></li>
     </ul>
 </details>
+
 
 
 
