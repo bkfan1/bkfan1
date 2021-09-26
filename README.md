@@ -1,24 +1,6 @@
 <h1 align="center">@bkfan1</h1>
 <h2 align="center">🌐 Web developer</h2>
 <details>
-    <summary><h3>About me 👨🏻‍💻</h3></summary>
-    <h3> · Personal:</h3>
-    <ul>
-        <li><h4>From: 🇻🇪</h4></li>
-        <li><h4>19 years old</h4></li>
-    </ul>
-    <br>
-    <h3> · Hobbies ⏲️:</h3>
-    <ul>
-        <li><h4>Skateboarding 🛹</h4></li>
-        <li><h4>Writing & reading 📚📓</h4></li>
-        <li><h4>Drawing & painting ✏️🖌️</h4></li>
-    </ul>
-</details>
-<hr>
-<br>
-<br>
-<details>
     <summary><h3>I know 🧠:</h3></summary>
     <h3>Programming languages:</h3>
     <img width="100px" height="100px" src="https://www.mozillaphilippines.org/wp-content/uploads/2016/06/javascript-logo.jpg" alt="JavaScript">
@@ -77,6 +59,22 @@
     <img width="100px" height="100px" src="https://i.imgur.com/oUH9hNy.png" alt="VueJS">
     <img width="100px" height="100px" src="https://belgium.devoteam.com/wp-content/uploads/sites/19/2021/05/Svelte-logo.png" alt="Svelte">
     <img width="100px" height="100px" src="https://framagit.org/uploads/-/system/project/avatar/28062/django.png" alt="Django">
+</details>
+<hr>
+<details>
+    <summary><h3>About me 👨🏻‍💻</h3></summary>
+    <h3> · Personal:</h3>
+    <ul>
+        <li><h4>From: 🇻🇪</h4></li>
+        <li><h4>19 years old</h4></li>
+    </ul>
+    <br>
+    <h3> · Hobbies ⏲️:</h3>
+    <ul>
+        <li><h4>Skateboarding 🛹</h4></li>
+        <li><h4>Writing & reading 📚📓</h4></li>
+        <li><h4>Drawing & painting ✏️🖌️</h4></li>
+    </ul>
 </details>
 <hr>
 
