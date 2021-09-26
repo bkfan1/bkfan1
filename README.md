@@ -61,6 +61,8 @@
     <img width="100px" height="100px" src="https://framagit.org/uploads/-/system/project/avatar/28062/django.png" alt="Django">
 </details>
 <hr>
+<br>
+<br>
 <details>
     <summary><h3>About me 👨🏻‍💻</h3></summary>
     <h3> · Personal:</h3>
