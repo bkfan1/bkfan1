@@ -3,7 +3,6 @@
 
 <details >
     <summary><h3>I know:</h3></summary>
-    <hr>
     <div style="display: flex; justify-content: space-center; align-items: center;">
         <h3>Programming languages:</h3>
         <img width="100px" height="100px" style="display: inline;" src="https://www.mozillaphilippines.org/wp-content/uploads/2016/06/javascript-logo.jpg" alt="JavaScript">
@@ -27,8 +26,6 @@
 
         <h3>Query languages:</h3>
         <img width="100px" height="100px" src="https://anterior.tectimes.net/wp-content/uploads/2017/08/Azure-SQL-Database-generic_COLOR.png" alt="SQL Language">
-
     </div>
-    <hr>
-
 </details>
+
