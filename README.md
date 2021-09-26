@@ -5,8 +5,6 @@
     <summary><h3>I know:</h3></summary>
     <hr>
     <div style="display: flex; justify-content: space-center; align-items: center;">
-
-        ## Programming languages:
         <ul>
             <li><img width="100px" height="100px" src="https://www.mozillaphilippines.org/wp-content/uploads/2016/06/javascript-logo.jpg" alt="JavaScript"></li>
             <li><img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python"></li>
