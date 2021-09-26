@@ -1,8 +1,8 @@
 <h1 align="center">Bkfan1</h1>
 <h2 align="center" >Web developer</h2>
 
-
-<details>
+## I know:
+<details title="I know:">
     <div style="display: flex; flex-direction: column;">
         <div style="display: flex; justify-content: space-center; align-items: center;">
             <img width="200px" height="200px" src="https://lh3.googleusercontent.com/proxy/Lit7wlZ4KCxlAAfU1gfeR5sRTTXhjD-nPY0yooMOKXaaclsRwpZgH-aQLNbeaw-T1fI-uR2j3X9CIZ98GaHvys3z3-df_2wb4xiDF2JuqO3kzeYWH2ch3SDPXtAyeXoK2Otmmzttkh1XhQyya6iohqVww7bXLq_GrwGnWI0bsc905idnpH4" alt="">
