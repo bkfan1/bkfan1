@@ -78,7 +78,7 @@
     <img width="100px" height="100px" src="https://belgium.devoteam.com/wp-content/uploads/sites/19/2021/05/Svelte-logo.png" alt="Svelte">
     <img width="100px" height="100px" src="https://framagit.org/uploads/-/system/project/avatar/28062/django.png" alt="Django">
 </details>
-
+<hr>
 
 
 
