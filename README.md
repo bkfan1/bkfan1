@@ -28,14 +28,38 @@
     <img width="100px" height="100px" src="https://ignaciovalero.es/assets/imagesAptitudes/1200px-Bootstrap_logo.png" alt="Bootstrap">
     <img width="100px" height="100px" src="https://miro.medium.com/max/640/1*KTAstxDm8yEG17u94avrXw.png" alt="Tailwind CSS">
     <img width="100px" height="100px" src="https://www.accentsconagua.com/img/images_6/quick-tip-how-to-build-a-blog-layout-with-bulma_7.png" alt="Bulma CSS">
+    <br>
+    <br>
+    <h3>Dev Ops</h3>
+    <img width="100px" height="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfzqMdoBH7yN3TtQHn4aTJVEMaOyJ4-gnGR4gwPN0rRmQYHIx6EFazVkfftojuCaA0dBs&usqp=CAU" alt="git">
+    <img width="100px" height="100px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github">
+    <br>
+    <br>
+    <h3>Systems:</h3>
+    <img width="100px" height="100px" src="https://images.vexels.com/media/users/3/140692/isolated/lists/72d1f12edf758d24f5b6db73bac4f297-logo-de-linux.png" alt="linux">
+    <h4>(Arch & Ubuntu)</h4>
 </details>
 <hr>
 <br>
 <br>
 <details>
     <summary><h3>I want to learn / I'm currently learning</h3></summary>
+    <h3>Programming languages:</h3>
+    <img width="100px" height="100px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="">
+    <img width="100px" height="100px" src="https://console.kamatera.com/assets/images/os/os_php.png" alt="php">
+    <img width="100px" height="100px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Golang">
+    <img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="rust">
+    <br>
+    <br>
+    <h3>Runtimes:</h3>
     <img width="100px" height="100px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodeJS">
-    <img width="100px" height="100px" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="">
+    <br>
+    <br>
+    <h3>Programming Frameworks:</h3>
+    <img width="100px" height="100px" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="React">
+    <img width="100px" height="100px" src="https://i.imgur.com/oUH9hNy.png" alt="VueJS">
+    <img width="100px" height="100px" src="https://belgium.devoteam.com/wp-content/uploads/sites/19/2021/05/Svelte-logo.png" alt="Svelte">
+    <img width="100px" height="100px" src="https://framagit.org/uploads/-/system/project/avatar/28062/django.png" alt="Django">
 </details>
 <hr>
 <br>
@@ -55,12 +79,6 @@
         <li><h4>Drawing & painting ✏️🖌️</h4></li>
     </ul>
 </details>
-
-
-
-
-
-
 
 
 
