@@ -1,7 +1,7 @@
 <h1 align="center">Bkfan1</h1>
 <h2 align="center" >Web developer</h2>
 
-<details >
+<details>
     <summary><h3>I know:</h3></summary>
     <h3>Programming languages:</h3>
     <img width="100px" height="100px" src="https://www.mozillaphilippines.org/wp-content/uploads/2016/06/javascript-logo.jpg" alt="JavaScript">
@@ -22,4 +22,14 @@
     <br>
     <h3>Query languages:</h3>
     <img width="100px" height="100px" src="https://anterior.tectimes.net/wp-content/uploads/2017/08/Azure-SQL-Database-generic_COLOR.png" alt="SQL Language">
+    <br>
+    <br>
+    <h3>CSS Frameworks:</h3>
+    <img width="100px" height="100px" src="https://ignaciovalero.es/assets/imagesAptitudes/1200px-Bootstrap_logo.png" alt="Bootstrap">
+    <img width="100px" height="100px" src="https://miro.medium.com/max/640/1*KTAstxDm8yEG17u94avrXw.png" alt="Tailwind CSS">
+    <img width="100px" height="100px" src="https://www.accentsconagua.com/img/images_6/quick-tip-how-to-build-a-blog-layout-with-bulma_7.png" alt="Bulma CSS">
 </details>
+
+
+
+
