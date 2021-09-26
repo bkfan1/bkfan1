@@ -10,7 +10,7 @@
         <img width="200px" height="200px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" alt="">
         <img width="200px" height="200px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="">
         <img width="200px" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="">
-        <img width="200px" height="200px" src="https://userscontent2.emaze.com/images/46397bcf-c2bc-46d3-80ee-e80bb7ee1b92/7ab87d49737b0b12fbdc806effac21b3.png" alt="">
+        <img width="200px" height="200px" src="https://anterior.tectimes.net/wp-content/uploads/2017/08/Azure-SQL-Database-generic_COLOR.png" alt="">
     </div>
     
 </div>
