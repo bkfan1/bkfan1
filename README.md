@@ -1,5 +1,5 @@
 <h1 align="center">Bkfan1</h1>
-<h2 align="center" >Web developer</h2>
+<h2 align="center">🌐 Web developer</h2>
 
 <details>
     <summary><h3>I know:</h3></summary>
@@ -29,6 +29,40 @@
     <img width="100px" height="100px" src="https://miro.medium.com/max/640/1*KTAstxDm8yEG17u94avrXw.png" alt="Tailwind CSS">
     <img width="100px" height="100px" src="https://www.accentsconagua.com/img/images_6/quick-tip-how-to-build-a-blog-layout-with-bulma_7.png" alt="Bulma CSS">
 </details>
+<hr>
+<br>
+<br>
+<details>
+    <summary><h3>I want to learn / I'm currently learning</h3></summary>
+    <img width="100px" height="100px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodeJS">
+    <img width="100px" height="100px" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="">
+</details>
+<hr>
+<br>
+<br>
+<details>
+    <summary><h3>About me 👨🏻‍💻</h3></summary>
+    <h3> · Personal:</h3>
+    <ul>
+        <li><h4>From: 🇻🇪</h4></li>
+        <li><h4>19 years old</h4></li>
+    </ul>
+    <br>
+    <h3> · Hobbies ⏲️:</h3>
+    <ul>
+        <li><h4>Skateboarding 🛹</h4></li>
+        <li><h4>Writing & reading 📚📓</h4></li>
+        <li><h4>Drawing & painting ✏️🖌️</h4></li>
+    </ul>
+</details>
+
+
+
+
+
+
+
+
 
 
 
