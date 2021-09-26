@@ -9,6 +9,7 @@
         <img width="200px" height="200px" src="https://www.ondho.com/wp-content/uploads/2015/04/thumbnail-sass.png" alt="">
         <img width="200px" height="200px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rr7K5gOm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dbalas.gallerycdn.vsassets.io/extensions/dbalas/vscode-html2pug/0.0.2/1532242577062/Microsoft.VisualStudio.Services.Icons.Default" alt="">
         <img width="200px" height="200px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="">
+        <img width="200px" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="">
     </div>
     
 </div>
