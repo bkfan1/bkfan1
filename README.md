@@ -6,9 +6,9 @@
     <hr>
     <div style="display: flex; justify-content: space-center; align-items: center;">
         <ul style="display: flex; flex-direction: row;">
-            <li><img width="100px" height="100px" src="https://www.mozillaphilippines.org/wp-content/uploads/2016/06/javascript-logo.jpg" alt="JavaScript"></li>
-            <li><img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python"></li>
-            <li><img width="100px" height="100px" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash/Shell Scripting"></li>
+            <li style="display: inline;"><img width="100px" height="100px" style="display: inline;" src="https://www.mozillaphilippines.org/wp-content/uploads/2016/06/javascript-logo.jpg" alt="JavaScript"></li>
+            <li style="display: inline;"><img width="100px" height="100px" style="display: inline;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python"></li>
+            <li style="display: inline;"><img width="100px" height="100px" style="display: inline;" src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Bash/Shell Scripting"></li>
         </ul>
 
         <img width="100px" height="100px" src="https://lh3.googleusercontent.com/proxy/Lit7wlZ4KCxlAAfU1gfeR5sRTTXhjD-nPY0yooMOKXaaclsRwpZgH-aQLNbeaw-T1fI-uR2j3X9CIZ98GaHvys3z3-df_2wb4xiDF2JuqO3kzeYWH2ch3SDPXtAyeXoK2Otmmzttkh1XhQyya6iohqVww7bXLq_GrwGnWI0bsc905idnpH4" alt="HTML5">
@@ -23,5 +23,3 @@
     <hr>
 
 </details>
-
-
