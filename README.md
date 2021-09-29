@@ -44,21 +44,21 @@
 <details>
     <summary><h3>I want to learn / I'm currently learning 📖💡:</h3></summary>
     <h3>Programming languages:</h3>
-    <img width="100px" height="100px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="">
-    <img width="100px" height="100px" src="https://console.kamatera.com/assets/images/os/os_php.png" alt="php">
-    <img width="100px" height="100px" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="Golang">
-    <img width="100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="rust">
+    <img width="100px" height="100px" src="iw_1.png" alt="">
+    <img width="100px" height="100px" src="iw_2.png" alt="php">
+    <img width="100px" height="100px" src="iw_3.svg" alt="Golang">
+    <img width="100px" height="100px" src="iw_4.png" alt="rust">
     <br>
     <br>
     <h3>Runtimes:</h3>
-    <img width="100px" height="100px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodeJS">
+    <img width="100px" height="100px" src="iw_5.png" alt="nodeJS">
     <br>
     <br>
     <h3>Programming Frameworks:</h3>
-    <img width="100px" height="100px" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" alt="React">
-    <img width="100px" height="100px" src="https://i.imgur.com/oUH9hNy.png" alt="VueJS">
-    <img width="100px" height="100px" src="https://belgium.devoteam.com/wp-content/uploads/sites/19/2021/05/Svelte-logo.png" alt="Svelte">
-    <img width="100px" height="100px" src="https://framagit.org/uploads/-/system/project/avatar/28062/django.png" alt="Django">
+    <img width="100px" height="100px" src="iw_6.png" alt="React">
+    <img width="100px" height="100px" src="iw_7.png" alt="VueJS">
+    <img width="100px" height="100px" src="iw_8.png" alt="Svelte">
+    <img width="100px" height="100px" src="iw_9.png" alt="Django">
 </details>
 <hr>
 <br>
