@@ -7,6 +7,11 @@
     <img width="100px" height="100px" src="ik_2.png" alt="Python">
     <img width="100px" height="100px" src="ik_3.png" alt="Bash/Shell Scripting">
     <br>
+    <h3>Runtimes:</h3>
+    <img width="100px" height="100px" src="iw_5.png" alt="nodeJS">
+    <br>
+    <h3>Language Frameworks:</h3>
+    <img width="100px" height="100px" src="iw_6.png" alt="React">
     <br>
     <h3>Markup and Style languages:</h3>
     <img width="100px" height="100px" src="MetroUI-HTML5.png" alt="HTML5">
@@ -50,12 +55,9 @@
     <img width="100px" height="100px" src="iw_4.png" alt="rust">
     <br>
     <br>
-    <h3>Runtimes:</h3>
-    <img width="100px" height="100px" src="iw_5.png" alt="nodeJS">
     <br>
     <br>
-    <h3>Programming Frameworks:</h3>
-    <img width="100px" height="100px" src="iw_6.png" alt="React">
+    <h3>Language Frameworks:</h3>
     <img width="100px" height="100px" src="iw_7.png" alt="VueJS">
     <img width="100px" height="100px" src="iw_8.png" alt="Svelte">
     <img width="100px" height="100px" src="iw_9.png" alt="Django">
