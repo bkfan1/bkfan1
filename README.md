@@ -75,7 +75,7 @@
     <br>
     <h3> · Hobbies ⏲️:</h3>
     <ul>
-        <li><h4>Skateboarding 🛹,Writing & reading 📚📓, Drawing & painting ✏️🖌️, Playing Bass 🎸</h4></li>
+        <li><h4>Skateboarding 🛹,Writing & reading 📚📓, Drawing & painting ✏️🖌️, Playing Bass 🎸 </h4></li>
 
 
     </ul>
