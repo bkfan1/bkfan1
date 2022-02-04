@@ -78,6 +78,8 @@
         <li><h4>Skateboarding 🛹</h4></li>
         <li><h4>Writing & reading 📚📓</h4></li>
         <li><h4>Drawing & painting ✏️🖌️</h4></li>
+        <li><h4Playing Bass 🎸</h4></li>
+
     </ul>
 </details>
 <hr>
