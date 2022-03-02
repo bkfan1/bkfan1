@@ -1,91 +1,79 @@
-<h1 align="center">@bkfan1</h1>
-<h2 align="center">🌐 Web developer</h2>
-<details>
-    <summary><h3>I know 🧠:</h3></summary>
-    <h3>Programming languages:</h3>
-    <img width="100px" height="100px" src="ik_1.jpg">
-    <img width="100px" height="100px" src="ik_2.png" alt="Python">
-    <img width="100px" height="100px" src="ik_3.png" alt="Bash/Shell Scripting">
-    <br>
-    <h3>Runtimes:</h3>
-    <img width="100px" height="100px" src="iw_5.png" alt="nodeJS">
-    <br>
-    <h3>Language Frameworks:</h3>
-    <img width="100px" height="100px" src="iw_6.png" alt="React">
-    <br>
-    <h3>Markup and Style languages:</h3>
-    <img width="100px" height="100px" src="MetroUI-HTML5.png" alt="HTML5">
-    <img width="100px" height="100px" src="ik_5.png" alt="CSS3">
-    <img width="120px" height="100px" src="ik_6.png" alt="Markdown Language">
-    <br>
-    <br>
-    <h3>Preprocessors & Template Engines:</h3>
-    <img width="100px" height="100px" src="ik_7.webp" alt="SASS">
-    <img width="100px" height="100px" src="ik_8.png" alt="Pug HTML">
-    <br>
-    <br>
-    <h3>Query languages:</h3>
-    <img width="100px" height="100px" src="ik_9.png" alt="SQL Language">
-    <br>
-    <br>
-    <h3>CSS Frameworks:</h3>
-    <img width="100px" height="100px" src="ik_10.png" alt="Bootstrap">
-    <img width="100px" height="100px" src="ik_11.png" alt="Tailwind CSS">
-    <img width="100px" height="100px" src="ik_!2.png" alt="Bulma CSS">
-    <br>
-    <br>
-    <h3>Dev Ops</h3>
-    <img width="100px" height="100px" src="ik_13.png" alt="git">
-    <img width="100px" height="100px" src="ik_14.png" alt="github">
-    <br>
-    <br>
-    <h3>Systems:</h3>
-    <img width="100px" height="100px" src="ik_15.png" alt="linux">
-    <h4>(Arch & Ubuntu)</h4>
-</details>
-<hr>
-<br>
-<br>
-<details>
-    <summary><h3>I want to learn / I'm currently learning 📖💡:</h3></summary>
-    <h3>Programming languages:</h3>
-    <img width="100px" height="100px" src="iw_1.png" alt="">
-    <img width="100px" height="100px" src="iw_2.png" alt="php">
-    <img width="100px" height="100px" src="iw_3.svg" alt="Golang">
-    <img width="100px" height="100px" src="iw_4.png" alt="rust">
-    <br>
-    <br>
-    <br>
-    <br>
-    <h3>Language Frameworks:</h3>
-    <img width="100px" height="100px" src="iw_7.png" alt="VueJS">
-    <img width="100px" height="100px" src="iw_8.png" alt="Svelte">
-    <img width="100px" height="100px" src="iw_9.png" alt="Django">
-</details>
-<hr>
-<br>
-<br>
-<details>
-    <summary><h3>About me 👨🏻‍💻</h3></summary>
-    <h3> · Personal:</h3>
-    <ul>
-        <li><h4>From: 🇻🇪</h4></li>
-        <li><h4>19 years old</h4></li>
-    </ul>
-    <br>
-    <h3> · Hobbies ⏲️:</h3>
-    <ul>
-        <li><h4>Skateboarding 🛹</h4></li>
-        <li><h4>Writing & reading 📚📓</h4></li>
-        <li><h4>Drawing & painting ✏️🖌️</h4></li>
-        <li><h4>Playing Bass 🎸</h4></li></h4></li>
-    </ul>
-</details>
-<hr>
+<h1 align="center">JPF177</h1>
+<h2 align="center">💻 Software developer</h2>
 
+<h3>Knowledge:</h3>
 
+<h4>· Frontend: </h4>
+<div>
+ <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+ <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+    
+ <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+</div>
 
+<h4>· Backend:</h4>
+<div>
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</div>
 
+<h4>· OS / Devops / Other Tools </h4>
+<div>
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+     <img height="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+</div>
 
+<hr />
 
+<h3>Currently learning / Wants to learn:</h3>
+<div>
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+     <img  height="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
+     <img height="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+     <img height="35px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
+     <img  height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+     <img  height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+     <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
+     <img  height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+     <img  height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" />
+     <img  height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+     <img  height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rocksdb/rocksdb-plain.svg" />
+</div>
 
+<hr/>
+
+<h3>About me:</h3>
+<li>From: 🇻🇪</li>
+<li>20yrs old</li>
+<li>Hobbies: 📝, 🛹, 🎨, 📐, 🎸, 🎮, 💻</li>
