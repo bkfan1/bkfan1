@@ -47,8 +47,8 @@
      <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
      <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
 </div>
+<br />
 
-<hr />
 
 <h3>Currently learning / Wants to learn:</h3>
 <div>
