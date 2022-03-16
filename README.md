@@ -1,4 +1,4 @@
-<h1 align="center">Jackson P. F.</h1>
+<h1 align="center">Jackson Paredes. F.</h1>
 <h2 align="center">💻 Software developer</h2>
 
 <h3>Knowledge:</h3>
