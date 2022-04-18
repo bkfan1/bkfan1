@@ -75,5 +75,5 @@
 
 <h3>About me:</h3>
 <li>From: 🇻🇪</li>
-<li>20yrs old</li>
+<li>20 years old</li>
 <li>Hobbies: 📝, 🛹, 🎨, 📐, 🎸, 🎮, 💻</li>
