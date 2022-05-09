@@ -77,3 +77,5 @@
 <li>From: 🇻🇪</li>
 <li>20 years old</li>
 <li>Hobbies: 📝, 🛹, 🎨, 📐, 🎸, 🎮, 💻</li>
+<li>Looking for job</li>
+<li>Available for freelancing projects</li>
