@@ -82,7 +82,10 @@
 <li>20 years old</li>
 <li>Hobbies: 📝, 🛹, 🎨, 📐, 🎸, 🎮, 💻</li>
 
+
 <h3>Contact and business:</h3>
-<li>jacksonpf177@gmail.com</li>
+<li><a href="mailto:jacksonpf177@gmail.com">jacksonpf177@gmail.com</a></li>
+
 <li>Looking for a fulltime job</li>
 <li>Available for freelance and open source projects</li>
+
