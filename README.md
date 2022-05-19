@@ -83,6 +83,6 @@
 <li>Hobbies: 📝, 🛹, 🎨, 📐, 🎸, 🎮, 💻</li>
 
 <h3>Contact and business:</h3>
-
+<li>jacksonpf177@gmail.com</li>
 <li>Looking for a fulltime job</li>
 <li>Available for freelance and open source projects</li>
