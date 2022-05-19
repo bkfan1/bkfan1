@@ -84,7 +84,7 @@
 
 
 <h3>Contact and business:</h3>
-<li><a href="mailto:jacksonpf177@gmail.com">jacksonpf177@gmail.com</a></li>
+<li>Email: <a href="mailto:jacksonpf177@gmail.com">jacksonpf177@gmail.com</a></li>
 
 <li>Looking for a fulltime job</li>
 <li>Available for freelance and open source projects</li>
