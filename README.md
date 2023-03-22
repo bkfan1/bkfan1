@@ -81,6 +81,6 @@
 <h3>Donate</h3>
 If you want to support my work, please, consider donate at:
 <ul>
-  <li>paypal.me/jacksonpf1</li>
+ <li><a href="paypal.me/jacksonpf1">Paypal</a></li>
 </ul>
 
