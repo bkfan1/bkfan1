@@ -78,4 +78,8 @@
 <h3>Business and contact:</h3>
 <li>Available for hiring (fulltime job, freelance and open source projects)</li>
 
+<h3>Donate</h3>
+If you want to support my work, please, consider donate at:
+https://www.paypal.com/paypalme/jacksonpf1
+
 
