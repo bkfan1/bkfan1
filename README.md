@@ -80,6 +80,7 @@
 
 <h3>Donate</h3>
 If you want to support my work, please, consider donate at:
-https://www.paypal.com/paypalme/jacksonpf1
-
+<ul>
+  <li>paypal.me/jacksonpf1</li>
+</ul>
 
