@@ -79,8 +79,8 @@
 <li>Available for hiring (fulltime job, freelance and open source projects)</li>
 
 <h3>Donate</h3>
-<li>If you want to support my work, please, consider donate at:</li>
+<li>If you want to support my work, please consider donate at:</li>
 <ul>
- <li><a href="paypal.me/jacksonpf1">Paypal</a></li>
+ <li><a href="https://www.paypal.me/jacksonpf1">Paypal</a></li>
 </ul>
 
