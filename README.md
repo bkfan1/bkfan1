@@ -34,7 +34,7 @@
      <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
-<h4>· OS / Devops / Other Tools </h4>
+<h4>· OS / DevOps / Dev Tools </h4>
 <div>
      <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
      <img height="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
